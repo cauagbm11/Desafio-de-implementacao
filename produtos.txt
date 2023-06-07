@@ -1,100 +1,85 @@
-banana fruta 2.50 50
-maca fruta 1.20 80
-laranja fruta 1.80 60
-abacaxi fruta 3.50 40
-melancia fruta 5.00 30
-morango fruta 2.00 70
-uva fruta 3.20 55
-manga fruta 2.80 65
-kiwi fruta 2.50 50
-limao fruta 1.50 75
-pera fruta 1.80 60
-abobora legume 4.50 35
-cenoura legume 1.20 80
-beterraba legume 1.80 60
-abobrinha legume 2.50 50
-tomate legume 3.20 55
-cebola legume 1.50 75
-alho legume 1.80 60
-pimentao legume 2.80 65
-espinafre legume 2.00 70
-alface legume 2.50 50
-pao-de-forma padaria 3.00 45
-pao-frances padaria 0.80 100
-pao-integral padaria 4.50 35
-croissant padaria 2.50 50
-baguete padaria 2.20 60
-bolo-de-chocolate padaria 8.00 20
-pastel padaria 3.50 40
-rosquinha padaria 1.80 60
-pao-de-queijo padaria 2.00 70
-torta-salgada padaria 5.50 30
-arroz comida 4.00 40
-feijao comida 3.50 45
-macarrao comida 2.80 55
-batata-frita comida 3.00 50
-hamburguer comida 6.50 25
-pizza comida 8.00 20
-lasanha comida 9.50 15
-sopa comida 3.20 55
-salada comida 2.00 70
-sanduiche comida 5.00 30
-suco-de-laranja bebida 2.50 60
-refrigerante bebida 3.00 50
-agua-mineral bebida 1.20 80
-cafe bebida 1.80 60
-cha bebida 1.50 75
-cerveja bebida 2.80 45
-vinho bebida 5.00 30
-leite bebida 2.20 65
-iogurte bebida 1.50 75
-refresco bebida 2.50 50
-camiseta roupa 20.00 15
-calca-jeans roupa 35.00 8
-vestido roupa 25.00 12
-sapato roupa 50.00 5
-jaqueta roupa 40.00 7
-blusa roupa 15.00 20
-meia roupa 5.00 30
-bone roupa 10.00 25
-oculos-de-sol roupa 30.00 10
-chapeu roupa 20.00 15
-celular eletronico 800.00 3
-tablet eletronico 500.00 5
-notebook eletronico 1500.00 2
-smartwatch eletronico 300.00 8
-caixa-de-som eletronico 200.00 10
-camera eletronico 1000.00 4
-televisao eletronico 2000.00 1
-fones-de-ouvido eletronico 100.00 12
-video-game eletronico 1200.00 3
-cadeira mobilia 150.00 5
-mesa mobilia 300.00 2
-sofa mobilia 500.00 3
-cama mobilia 400.00 4
-estante mobilia 250.00 6
-armario mobilia 350.00 4
-poltrona mobilia 200.00 8
-mesa-de-centro mobilia 150.00 7
-rack mobilia 180.00 6
-abajur mobilia 50.00 10
-tapete mobilia 80.00 8
-cadeira-de-escritorio mobilia 120.00 5
-almofada mobilia 30.00 12
-cabide mobilia 10.00 20
-luminaria mobilia 70.00 6
-ventilador eletronico 150.00 5
-liquidificador eletrodomestico 80.00 8
-aspirador-de-po eletrodomestico 200.00 3
-ferro-de-passar-roupa eletrodomestico 60.00 10
-panela-de-pressao eletrodomestico 100.00 5
-geladeira eletrodomestico 1500.00 2
-fogao eletrodomestico 800.00 4
-microondas eletrodomestico 300.00 7
-batedeira eletrodomestico 100.00 8
-torradeira eletrodomestico 50.00 12
-cafeteira eletrodomestico 80.00 10
-ferro-de-cabelo eletrodomestico 40.00 15
-aspirador-nasal eletrodomestico 20.00 18
-secador-de-cabelo eletrodomestico 70.00 7
-abajur-de-mesa mobilia 35.00 15
+Arroz,Grao de arroz,2.99,10
+Feijao,Feijao preto,3.50,8
+Macarrao,Macarrao espaguete,2.99,12
+Azeite,Azeite de oliva extravirgem,15.90,5
+Sal,Sal refinado,1.99,15
+Acucar,Acucar refinado,3.25,10
+Cafe,Cafe em po,8.50,7
+Leite,Leite integral,3.75,6
+Manteiga,Manteiga sem sal,6.99,4
+Queijo,Queijo prato,12.50,9
+Presunto,Presunto fatiado,9.99,6
+Ovo,Duzia de ovos,4.99,10
+Pao,Pao frances,0.50,20
+Banana,Banana prata,2.99,15
+Maca,Maca fuji,3.45,12
+Laranja,Laranja pera,3.99,14
+Abacaxi,Abacaxi perola,6.25,8
+Mela,Melao cantalupo,5.99,7
+Tomate,Tomate italiano,2.75,18
+Cenoura,Cenoura organica,1.50,20
+Batata,Batata inglesa,2.25,16
+Cebola,Cebola branca,1.99,15
+Alho,Alho descascado,3.99,12
+Salsa,Salsa fresca,0.99,20
+Limao,Limao tahiti,2.50,10
+Lima,Lima da persia,2.75,8
+Mamao,Mamao formosa,4.25,6
+Melancia,Melancia sem sementes,6.99,4
+Morango,Morango fresco,7.99,5
+Uva,Uva Italia,9.50,3
+Pessego,Pessego amarelo,5.99,6
+Pera,Pera portuguesa,3.99,10
+Mel,Mel puro,12.99,4
+Pao de Forma,Pao de forma integral,4.99,8
+Refrigerante,Refrigerante cola,3.25,10
+Agua mineral,Agua mineral sem gas,1.50,20
+Suco,Suco de laranja natural,6.99,6
+Iogurte,Iogurte natural,2.99,12
+Cereal,Cereal matinal,7.50,8
+Chocolate,Chocolate ao leite,4.99,15
+Biscoito,Biscoito recheado,2.25,18
+Oleo vegetal,Oleo de soja,3.75,10
+Vinagre,Vinagre de maca,4.50,8
+Molho de tomate,Molho de tomate tradicional,2.99,12
+Ketchup,Ketchup,3.25,10
+Mostarda,Mostarda amarela,2.50,12
+Maionese,Maionese tradicional,4.99,8
+Shampoo,Shampoo hidratante,8.99,6
+Condicionador,Condicionador reparador,7.99,6
+Sabonete,Sabonete em barra,1.50,15
+Papel higienico,Papel higienico folha dupla,4.99,12
+Desodorante,Desodorante roll-on,6.50,8
+Escova de dentes,Escova de dentes macia,3.99,10
+Creme dental,Creme dental branqueador,5.99,10
+Enxaguante bucal,Enxaguante bucal antisseptico,7.50,6
+Fralda descartavel,Fralda descartavel tamanho M,15.99,4
+Absorvente intimo,Absorvente noturno com abas,8.99,6
+Papel toalha,Papel toalha rolo com 50 folhas,2.99,15
+Limpador multiuso,Limpador multiuso em spray,6.50,8
+Detergente liquido,Detergente liquido neutro,4.99,12
+Amaciante de roupas,Amaciante de roupas floral,8.50,6
+Esponja de cozinha,Esponja de cozinha dupla face,2.99,15
+Saco de lixo,Saco de lixo com capacidade de 30 litros,5.99,10
+Vassoura,Vassoura com cerdas macias,12.99,4
+Rodo,Rodo de aluminio,9.99,5
+Pano de limpeza,Pano de limpeza multiuso,3.50,12
+Pasta de dente,Pasta de dente com fluor,4.99,10
+Fio dental,Fio dental encerado,3.25,12
+Escova de cabelo,Escova de cabelo oval,5.99,8
+Lixa de unhas,Lixa de unhas dupla face,1.50,15
+Bola de futebol,Bola de futebol tamanho 5,19.99,6
+Bola de basquete,Bola de basquete tamanho oficial,24.50,5
+Luvas de borracha,Luvas de borracha descartaveis,2.99,15
+Lampada,Lampada LED 9W,7.99,10
+Fita adesiva,Fita adesiva transparente,1.99,20
+Pilha alcalina,Pilha alcalina AA,6.50,8
+Fosforo,Fosforo comum caixa com 50 unidades,1.50,20
+Caderno,Caderno universitario 200 folhas,9.99,6
+Caneta esferografica,Caneta esferografica azul,1.50,20
+Lapis de cor,Lapis de cor 24 cores,7.99,5
+Apontador,Apontador de lapis com deposito,2.50,15
+Borracha,Borracha branca,0.99,25
+Regua,Regua de plastico 30 cm,1.25,20
+Tesoura,Tesoura escolar,4.50,10
+Cola liquida,Cola branca liquida 90g,2.99,15
