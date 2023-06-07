@@ -83,3 +83,18 @@ Borracha,Borracha branca,0.99,25
 Regua,Regua de plastico 30 cm,1.25,20
 Tesoura,Tesoura escolar,4.50,10
 Cola liquida,Cola branca liquida 90g,2.99,15
+Pao de Forma, Pao de forma integral, 4.99, 8
+Refrigerante, Refrigerante cola, 3.25, 10
+Agua mineral, Agua mineral sem gas, 1.50, 20
+Suco, Suco de laranja natural, 6.99, 6
+Iogurte, Iogurte natural, 2.99, 12
+Cereal, Cereal matinal, 7.50, 8
+Chocolate, Chocolate ao leite, 4.99, 15
+Biscoito, Biscoito recheado, 2.25, 18
+Oleo vegetal, Oleo de soja, 3.75, 10
+Vinagre, Vinagre de maca, 4.50, 8
+Molho de tomate, Molho de tomate tradicional, 2.99, 12
+Ketchup, Ketchup, 3.25, 10
+Mostarda, Mostarda amarela, 2.50, 12
+Maionese, Maionese tradicional, 4.99, 8
+Shampoo, Shampoo hidratante, 8.99, 6
